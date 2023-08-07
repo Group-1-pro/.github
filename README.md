@@ -5,12 +5,13 @@ The project aims to create an online platform that facilitates volunteering acro
 
 
 ## Wireframes
-![Homepage Wireframe](example_images/homepage_wireframe.png)
-![Volunteer Opportunities Wireframe](example_images/volunteer_opportunities_wireframe.png)
-![Volunteer Opportunity Details Wireframe](example_images/volunteer_opportunity_details_wireframe.png)
-![Registration Page Wireframe](example_images/registration_wireframe.png)
-![User Profile Page Wireframe](example_images/user_profile_wireframe.png)
-
+![w1](./wireframe/000077.png)
+![w2](./wireframe/000078.png)
+![w3](./wireframe/000079.png)
+![w4](./wireframe/000080.png)
+![w5](./wireframe/000081.png)
+![w6](./wireframe/000082.png)
+![w7](./wireframe/000083.png)
 ## User Stories
 1. **Browse Volunteer Opportunities**
    - User Story: As a potential volunteer, I want to see a list of available volunteering opportunities, so I can choose the one that matches my interests and skills.
@@ -30,10 +31,8 @@ The project aims to create an online platform that facilitates volunteering acro
      - When I click on a volunteer opportunity, I should see its details.
      - I can click on the "Apply" button to submit my application for that opportunity.
 
-3. [Add more user stories as needed]
-
 ## Software Requirements
-[Include the software requirements for your project here. For example:]
+
 - **Functional Requirements:**
   - User registration and login system.
   - Volunteer opportunity listing and details display.
@@ -47,24 +46,10 @@ The project aims to create an online platform that facilitates volunteering acro
   - High-performance server and database hosting.
   - Multilingual support for a global audience.
 
-## Domain Modeling
-![Domain Model](example_images/domain_model.png)
-[Explain the entities, their properties, and relationships in your domain model.]
 
 ## Database Schema Diagram
-[Explain the structure of your database and include the schema diagram with explanations of each table and its properties.]
-
-## Installation and Setup
-[Include instructions on how to set up and run your project locally.]
-
+![db](./db/000085.png)
 ## Technologies Used
-[List the technologies, frameworks, and libraries used in your project.]
-
-## Contributing
-[Include guidelines for contributing to your project if you wish to accept contributions.]
-
-## License
-[Include the license for your project. For example, you can use MIT, Apache, or any other open-source license.]
-
-## Acknowledgements
-[Give credit to any individuals or resources that helped you during the development of your project.]
+- Django
+- SQLite
+- Next.js
